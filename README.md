@@ -10,7 +10,7 @@
 [![Blog](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
 [![Blog](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
 [![Blog](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)]()
-
+[![Blog](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
 
 
 ### Tecnologias que estou utilizando no dia a dia
