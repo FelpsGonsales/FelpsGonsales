@@ -1,6 +1,6 @@
 ### Olá Mundo!
 
-### Meu nome é Felipe, sou um dev em desenvolvimento eterno! 
+### Meu nome é Felipe, uma pitada de fullstack? talvez.
 
 ### Tecnologias que possuo conhecimentos
 
