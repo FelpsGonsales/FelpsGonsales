@@ -21,7 +21,7 @@
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=FelpsGonsales&theme=blue-green)
-
+[![Github stats](https://github-readme-stats.vercel.app/api?username=FelpsGonsales&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contatos
 [![Blog](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/felpos)
