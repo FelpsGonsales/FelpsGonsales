@@ -20,7 +20,7 @@
 [![Blog](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)]()
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=FelpsGonsales&theme=blue-green)
+![Github Stats](https://template-aeopb3c0y-felpsgonsales-projects.vercel.app/api?username=FelpsGonsales&theme=blue-green)
 
 
 ### Contatos
